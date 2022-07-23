@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="tasks">Tasks</string>
+    <string name="snackbarok">OK</string>
+    <string name="storage_permission_text">This App Needs access to your Storage.</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="todo">TODO</string>
+    <string name="date">Date</string>
+    <string name="notes_title">Notes Title</string>
+    <string name="https">https://</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="enter_notes_here">Enter Notes Here</string>
+    <string name="notes">Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
